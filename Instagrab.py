@@ -9,8 +9,8 @@ login_url = 'https://www.instagram.com/accounts/login/ajax/'
 time = int(datetime.now().timestamp())
 
 payload = {
-    'username': '<USERNAME HERE>',
-    'enc_password': f'#PWD_INSTAGRAM_BROWSER:0:{time}:<PASSWORD HERE>',
+    'username': '<mr1_naili>',
+    'enc_password': f'#PWD_INSTAGRAM_BROWSER:0:{time}:<140911@Mm>',
     'queryParams': {},
     'optIntoOneTap': 'false'
 }
